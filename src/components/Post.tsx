@@ -6,7 +6,7 @@ type postProps = {
 
 const Post = ({title, content, image}: postProps) => {
   return (
-    <div className="w-[322px] h-[20rem] border mb-6 md:mr-6">
+    <div className="w-[317px] h-[20rem] border mb-6 md:mr-6">
       <img src={image} alt="postImage" />
       <div className="flex
       flex-col items-center px-4 text-start py-8">

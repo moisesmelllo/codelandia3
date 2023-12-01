@@ -20,7 +20,7 @@ const Body = () => {
 
 
   return (
-    <div className="flex flex-col justify-start px-20 max-w-screen-xl mx-auto">
+    <div className="flex flex-col justify-start px-20 max-w-[1265px] mx-auto">
       <h1 className="text-center lg:text-start py-8 font-semibold
       text-2xl lg:ml-10">
         Artigos recomendados

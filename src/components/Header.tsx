@@ -1,5 +1,3 @@
-
-
 const Header = () => {
   return (
     <header className="bg-gray-100 px-12">
